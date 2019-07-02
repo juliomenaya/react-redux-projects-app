@@ -1,3 +1,15 @@
+I made this project following the steps showing off in the  "The Net Ninja" youtube channel https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg on the "React, Redux & Firebase App Tutorial".
+
+This basically shows in the main page  a list of "projects" that were created by the app users.
+
+A user could authenticate himself with the email and password that he provided at the log up moment.
+
+There is also a notifications card, that shows the last three actions that were made in the app (users logged up and projects created)
+
+I complete this tutorial to improve my react-redux skills, so I just want to say thank you The Net Ninja to take the time 
+to share your knowledge.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
