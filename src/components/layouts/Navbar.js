@@ -19,8 +19,7 @@ const NavBar = ({ auth, profile }) => {
 
 const mapStateToProps = (state) => {    
     // Las propiedades de este objeto podrán ser accedidas en el componente
-    // por ejemplo se puede hacer la deestruturing de esta foma { auth } 
-    console.log(state)   
+    // por ejemplo se puede hacer la deestruturing de esta foma { auth }     
     return ({
         auth: state.firebase.auth,
         profile: state.firebase.profile
